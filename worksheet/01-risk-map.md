@@ -14,7 +14,7 @@ time: ~2h (qua nhiều block lab)
 | Trường | Điền vào đây |
 |---|---|
 | Họ tên | Chu Minh Quân |
-| Mã học viên | [Học viên tự điền] |
+| Mã học viên | 2A202600013|
 | Track number | 07 |
 | Tên track | Trợ lý sàng lọc CV và tuyển dụng |
 | Vì sao chọn track này? | Quy trình tuyển dụng có tác động trực tiếp đến cơ hội nghề nghiệp của cá nhân. Việc sử dụng AI trong lĩnh vực này tiềm ẩn rủi ro thiên kiến (bias) và sai lệch thông tin (hallucination) rất cao, có thể dẫn đến sự bất công có hệ thống nếu không được kiểm soát chặt chẽ. |
